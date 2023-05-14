@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![IsYancem's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsYancem)](https://github.com/anuraghazra/github-readme-stats)
-
 Hi 👋, I'm Abraham
 
 🔭 I’m currently working on CEMEX as a Data Analyst for Pricing
@@ -34,5 +32,8 @@ Hi 👋, I'm Abraham
 Connect with me:
 dianaluciamtz dianaluciamtz dianamg.data
 
-Languages and Tools:
-mongodb mssql mysql postgresql python
+## Lenguajes de Programación que Domino
+
+- ![Python](https://img2.freepng.es/20180320/fkq/kisspng-angle-text-symbol-brand-other-python-5ab0c09b32b4d1.7494578715215330832077.jpg){width=100px}
+
+[![IsYancem's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsYancem)](https://github.com/anuraghazra/github-readme-stats)
