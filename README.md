@@ -4,11 +4,7 @@
   <h3 align="center"> I am a Software Engineering student who is passionate about technology and its impact on society.</h3>
 </div>
 
-<div id="header" align="center">
-  <img src="" width="200" />
-  <h1 align="center"> Hi 👋, I'm Abraham </h1>
-  <h3 align="center"> I am a Software Engineering student who is passionate about technology and its impact on society.</h3>
-</div>
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsYancem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
