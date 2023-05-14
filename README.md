@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![IsYancem's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsYancem)](https://github.com/anuraghazra/github-readme-stats)
+
+Hi 👋, I'm Abraham
+
+🔭 I’m currently working on CEMEX as a Data Analyst for Pricing
+
+🌱 I’m currently learning Machine Learning and Data Processing with Python
+
+🤝 I’m looking for help with a small Spotify user analysis
+
+📫 Reach me at: dianamg.data@gmail.com
+
+📄 Know about my experiences in my CV:)
+
+⚡ Fun fact When in highschool, I thought math was the worst and wanted to get away from it
+
+Connect with me:
+dianaluciamtz dianaluciamtz dianamg.data
+
+Languages and Tools:
+mongodb mssql mysql postgresql python
