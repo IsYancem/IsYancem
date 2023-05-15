@@ -6,6 +6,16 @@
 
 ---
 
+<div>
+  <h1>About Me:</h1>
+  <li>
+    <ul>🔭 I’m currently studying software engineering.</ul>
+    <ul>🌱 I’m currently learning Machine Learning and Data Processing with Python</ul>
+    <ul>🤝 I’m looking for challenging work experiences that will help me grow professionally.</ul>
+    <ul>📫 Reach me at: **isyancem@gmail.com** or **abriyance@outlook.com**</ul>
+  </li>
+</div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsYancem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![IsYancem's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=IsYancem&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
