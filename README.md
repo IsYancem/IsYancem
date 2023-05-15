@@ -12,7 +12,7 @@
     <li>🔭 I’m currently studying software engineering.</li>
     <li>🌱 I’m currently learning Machine Learning and Data Processing with Python</li>
     <li>🤝 I’m looking for challenging work experiences that will help me grow professionally.</li>
-    <li>📫 Reach me at: <a href="mailto:abriyance@gmail.com">isyancem@gmail.com</a> or *abriyance@outlook.com*</li>
+    <li>📫 Reach me at: <a href="mailto:abriyance@gmail.com">isyancem@gmail.com</a> or <a href="mailto:abriyance@outlook.com">abriyance@outlook.com</a></li>
   </ul>
 </div>
 
@@ -32,8 +32,7 @@
 ---
 
 <div align="left">
-  <h2>:hammer: Languages and Tools</h2>
-  ### :bar_chart: My Stats:
+  <h2>:bar_chart: My Stats:</h2>
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=IsYancem&theme=radical)](https://git.io/streak-stats)
 
