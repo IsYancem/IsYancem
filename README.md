@@ -31,18 +31,12 @@
 
 ---
 
-<div align="left">
+<div align="left" style="display: inline-block;">
   <h2>:bar_chart: My Stats:</h2>
-
-  <div style="display: inline-block; margin-right: 10px;">
+  
     [![GitHub Streak](https://streak-stats.demolab.com?user=IsYancem&theme=radical)](https://git.io/streak-stats)
-  </div>
 
-  <div style="display: inline-block; margin-right: 10px;">
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsYancem&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
 
-  <div style="display: inline-block;">
     [![IsYancem's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=IsYancem&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-  </div>
 </div>
