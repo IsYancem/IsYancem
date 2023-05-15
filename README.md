@@ -7,7 +7,7 @@
 ---
 
 <div align="left">
-  <h2>About Me:</h2>
+  <h2>:coffee: About Me:</h2>
   <ul>
     <li>🔭 I’m currently studying software engineering.</li>
     <li>🌱 I’m currently learning Machine Learning and Data Processing with Python</li>
