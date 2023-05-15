@@ -12,7 +12,7 @@
     <li>🔭 I’m currently studying software engineering.</li>
     <li>🌱 I’m currently learning Machine Learning and Data Processing with Python</li>
     <li>🤝 I’m looking for challenging work experiences that will help me grow professionally.</li>
-    <li>📫 Reach me at: **isyancem@gmail.com** or **abriyance@outlook.com**</li>
+    <li>📫 Reach me at: *isyancem@gmail.com* or *abriyance@outlook.com*</li>
   </ul>
 </div>
 
@@ -33,7 +33,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsYancem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsYancem&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![IsYancem's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=IsYancem&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
