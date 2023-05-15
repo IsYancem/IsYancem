@@ -40,3 +40,25 @@
 
     [![IsYancem's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=IsYancem&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 </div>
+
+<div align="left">
+  <h2>:bar_chart: My Stats:</h2>
+
+  <div style="display: inline-block;">
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=IsYancem&theme=radical" alt="GitHub Streak">
+    </a>
+  </div>
+
+  <div style="display: inline-block;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsYancem&theme=radical&layout=compact" alt="Top Langs">
+    </a>
+  </div>
+
+  <div style="display: inline-block;">
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+      <img src="https://github-readme-stats.vercel.app/api?username=IsYancem&show_icons=true&theme=radical#gh-dark-mode-only" alt="IsYancem's GitHub stats-Dark">
+    </a>
+  </div>
+</div>
