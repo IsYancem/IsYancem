@@ -8,12 +8,12 @@
 
 <div>
   <h1>About Me:</h1>
-  <li>
-    <ul>🔭 I’m currently studying software engineering.</ul>
-    <ul>🌱 I’m currently learning Machine Learning and Data Processing with Python</ul>
-    <ul>🤝 I’m looking for challenging work experiences that will help me grow professionally.</ul>
-    <ul>📫 Reach me at: **isyancem@gmail.com** or **abriyance@outlook.com**</ul>
-  </li>
+  <ol>
+    <li>🔭 I’m currently studying software engineering.</li>
+    <li>🌱 I’m currently learning Machine Learning and Data Processing with Python</li>
+    <li>🤝 I’m looking for challenging work experiences that will help me grow professionally.</li>
+    <li>📫 Reach me at: **isyancem@gmail.com** or **abriyance@outlook.com**</li>
+  </ol>
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsYancem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
