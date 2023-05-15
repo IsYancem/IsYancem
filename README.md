@@ -34,18 +34,19 @@
 <div align="left">
   <h2>:bar_chart: My Stats:</h2>
 
-  <div style="display: flex; justify-content: flex-start; align-items: center;">
-    <a href="https://git.io/streak-stats" style="margin-right: 20px;">
+  <div style="overflow: auto;">
+    <a href="https://git.io/streak-stats" style="float: left; margin-right: 20px;">
       <img src="https://streak-stats.demolab.com?user=IsYancem&theme=radical" alt="GitHub Streak" width="300">
     </a>
     
-    <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-right: 20px;">
+    <a href="https://github.com/anuraghazra/github-readme-stats" style="float: left; margin-right: 20px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsYancem&theme=radical&layout=compact" alt="Top Langs" width="300">
     </a>
     
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" style="float: left;">
       <img src="https://github-readme-stats.vercel.app/api?username=IsYancem&show_icons=true&theme=radical#gh-dark-mode-only" alt="IsYancem's GitHub stats-Dark" width="300">
     </a>
   </div>
 </div>
+
 
