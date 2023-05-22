@@ -1,6 +1,6 @@
 <style>
     .colored-image {
-        color: #ff0000; /* Reemplaza #ff0000 por el código de color que desees */
+        color: #fff; /* Reemplaza #ff0000 por el código de color que desees */
     }
 </style>
 
