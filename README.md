@@ -1,9 +1,3 @@
-<style>
-    .colored-image {
-        color: #fff; /* Reemplaza #ff0000 por el código de color que desees */
-    }
-</style>
-
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47j7no0qquyx2bh6qy65svssq41jlpw71b9sujgzds&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" />
   <h1 align="center"><span style="color: #1abc9c">Hi</span> 👋,<span style="color: #f39c12"> I'm </span> <span style="color: #e91e63">Abraham</span></h1>
@@ -40,7 +34,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQLServer" alt="SQLServer" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40" color="White"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40" class="colored-image" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40" style="background-color: black;">
   </div>
   </div>
 </div>
