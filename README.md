@@ -38,7 +38,7 @@
 </div>
 
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,photoshop,xd,figma,vscode,androidstudio,git,github,python&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,reactjs,dart,flutter,firebase,photoshop,xd,figma,vscode,androidstudio,git,github,python&theme=dark" />
   </a>
 ---
 
