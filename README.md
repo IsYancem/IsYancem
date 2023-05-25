@@ -37,6 +37,9 @@
   </div>
 </div>
 
+<a href="#">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,photoshop,xd,figma,vscode,androidstudio,git,github&theme=dark" />
+  </a>
 ---
 
 <div align="left">
