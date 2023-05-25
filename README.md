@@ -20,7 +20,7 @@
 
 <div align="left">
   <h2>:hammer: Languages and Tools</h2>
-  <div>
+  <!--<div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -34,12 +34,13 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQLServer" alt="SQLServer" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
-  </div>
+  </div>-->
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,laravel,python,fastapi,cpp,dart,flutter,mysql,vscode,unity&theme=dark" />
+  </a>
 </div>
 
-<a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,laravel,python,fastapi,cpp,dart,flutter,mysql,sqlserver,vscode,unity&theme=dark" />
-  </a>
+
 ---
 
 <div align="left">
