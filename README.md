@@ -36,7 +36,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
   </div>-->
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,laravel,python,fastapi,cpp,dart,flutter,mysql,vscode,unity&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,laravel,python,fastapi,cpp,dart,flutter,mysql,sqlite,vscode,unity&theme=dark" />
   </a>
 </div>
 
