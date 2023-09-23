@@ -10,10 +10,21 @@
   <h2>:coffee: About Me:</h2>
   <ul>
     <li>🔭 I’m currently studying software engineering.</li>
-    <li>🌱 I’m learning Machine Learning and Data Processing with Python</li>
-    <li>📱 Working as a mobile application developer at flutter.</li>
+    <li>🌱 I'm learning Machine Learning and Data Science with Python</li>
+    <li>📱 I'm working as a mobile application developer at flutter.</li>
     <li>🤝 I’m looking for challenging work experiences that will help me grow professionally.</li>
-    <li>📫 Reach me at: <a href="mailto:abriyance@gmail.com">isyancem@gmail.com</a> or <a href="mailto:abriyance@outlook.com">abriyance@outlook.com</a></li>
+    <li>📫 Reach me at: <a href="mailto:abriyance@gmail.com">isyancem@gmail.com</a></li>
+  </ul>
+</div>
+
+---
+
+<div align="left">
+  <h2>:globe_with_meridians: Languages:</h2>
+  <ul>
+    <li>🇪🇸 Spanish (Native)</li>
+    <li>🇬🇧 English (B1)</li>
+    <li>🇵🇹 Portuguese (B2)</li>
   </ul>
 </div>
 
