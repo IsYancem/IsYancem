@@ -47,7 +47,7 @@
       <img src="https://streak-stats.demolab.com?user=IsYancem&theme=radical" alt="GitHub Streak">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsYancem&theme=radical&layout=normal" alt="Top Langs">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsYancem&theme=radical&layout=compact" alt="Top Langs">
     </a>
   </div>
 </div>
