@@ -33,7 +33,7 @@
 <div align="left">
   <h2>:hammer: Languages and Tools</h2>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,laravel,python,fastapi,cpp,dart,flutter,mysql,sqlite,vscode,unity&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,react,laravel,python,fastapi,cpp,dart,flutter,mysql,sqlite,vscode,unity&theme=dark" />
   </a>
 </div>
 
