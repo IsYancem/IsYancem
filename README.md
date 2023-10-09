@@ -5,7 +5,6 @@
 </div>
 
 ---
-
 <div align="left">
   <h2>:coffee: About Me:</h2>
   <ul>
@@ -18,7 +17,6 @@
 </div>
 
 ---
-
 <div align="left">
   <h2>:globe_with_meridians: Languages:</h2>
   <ul>
@@ -29,7 +27,6 @@
 </div>
 
 ---
-
 <div align="left">
   <h2>:hammer: My Tech Stack</h2>
 <p>
@@ -52,9 +49,7 @@
 </p>
 </div>
 
-
 ---
-
 <div align="left">
   <h2>:bar_chart: My Stats:</h2>
   <div style="display: inline-block;">
