@@ -1,7 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47j7no0qquyx2bh6qy65svssq41jlpw71b9sujgzds&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" />
+  <img align="right" alt="coding.gif" style="border-radius:20px" src="https://media4.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47j7no0qquyx2bh6qy65svssq41jlpw71b9sujgzds&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="180" />
   <h1 align="center"><span style="color: #1abc9c">Hi</span> 👋,<span style="color: #f39c12"> I'm </span> <span style="color: #e91e63">Abraham</span></h1>
-  <h3 align="center"> I am a Software Engineering student who is passionate about technology and its impact on society.</h3>
+  <h3 align="center">I am a Software Engineering student who is passionate about technology and its impact on society.</h3>
 </div>
 
 ---
@@ -47,7 +47,6 @@
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-Unity-3A3D3D?style=flat&logo=unity&logoColor=white">
   <img src="https://img.shields.io/badge/-VSCode-0C7EF0?style=flat&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/-Unity-3A3D3D?style=flat&logo=unity&logoColor=white">
 </p>
