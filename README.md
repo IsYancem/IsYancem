@@ -49,14 +49,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsYancem&theme=radical&layout=compact" alt="Top Langs">
     </a>
-  </div>
-</div>
-
-
-## 📈 My GitHub Stats
-
-
-<picture>
+    <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=IsYancem&layout=compact&langs_count=8&theme=radical"
     media="(prefers-color-scheme: dark)" />
@@ -65,5 +58,5 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsYancem&layout=compact&langs_count=8" />
 </picture>
-
-
+  </div>
+</div>
