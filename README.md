@@ -31,10 +31,26 @@
 ---
 
 <div align="left">
-  <h2>:hammer: Languages and Tools</h2>
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,react,laravel,python,fastapi,cpp,dart,flutter,mysql,sqlite,vscode,unity&theme=dark" />
-  </a>
+  <h2>:hammer: My Tech Stack</h2>
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/-React%20JS-1ABFD3?style=flat&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/-Php-264381?style=flat&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/-Laravel-F70B0B?style=flat&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/-C++-0C7EF0?style=flat&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-FFF40C?style=flat&logo=python&logoColor=black">
+  <img src="https://img.shields.io/badge/-FastApi-10D7A4?style=flat&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/-Dart-48A0EE?style=flat&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/-Flutter-48C6EE?style=flat&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-Unity-3A3D3D?style=flat&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/-VSCode-0C7EF0?style=flat&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/-Unity-3A3D3D?style=flat&logo=unity&logoColor=white">
+</p>
 </div>
 
 
