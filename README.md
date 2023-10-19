@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-VSCode-0C7EF0?style=flat&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/-Unity-3A3D3D?style=flat&logo=unity&logoColor=white">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,reactjs,php,laravel,cplusplus,python,fastapi,dart,flutter,mongodb,mysql,vscode,unity,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,php,laravel,cplusplus,python,fastapi,dart,flutter,mongodb,mysql,vscode,unity,git,github&theme=dark" />
 </p>
 </div>
 
