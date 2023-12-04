@@ -6,7 +6,7 @@
 
 ---
 <div align="left">
-  <h2>:coffee: About Me:</h2>
+  <h2>About Me:</h2>
   <ul>
     <li>🔭 I’m currently studying software engineering.</li>
     <li>🌱 I'm learning Machine Learning and Data Science with Python</li>
@@ -18,7 +18,7 @@
 
 ---
 <div align="left">
-  <h2>:globe_with_meridians: Languages:</h2>
+  <h2>Languages:</h2>
   <ul>
     <li>🇪🇸 Spanish (Native)</li>
     <li>🇬🇧 English (B1)</li>
@@ -28,7 +28,7 @@
 
 ---
 <div align="left">
-  <h2>:hammer: My Tech Stack</h2>
+  <h2>My Tech Stack</h2>
 <p>
   <!-- <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -52,7 +52,7 @@
 
 ---
 <div align="left">
-  <h2>:bar_chart: My Stats:</h2>
+  <h2>My Stats:</h2>
   <div style="display: inline-block;">
     <a href="https://git.io/streak-stats">
       <img src="https://streak-stats.demolab.com?user=IsYancem&theme=radical" alt="GitHub Streak">   
