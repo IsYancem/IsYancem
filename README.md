@@ -30,36 +30,7 @@
 <div align="left">
   <h2>My Tech Stack</h2>
 <p>
-  <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="50px" height="50px">
-  <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="50px" height="50px">
-  <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="50px" height="50px">
-  <img src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" width="50px" height="50px">
-  <img src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" width="50px" height="50px">
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" width="50px" height="50px">
-  <img src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" width="50px" height="50px">
-  <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" width="50px" height="50px">
-  <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="50px" height="50px">
-  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50px" height="50px">
-  <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="50px" height="50px">
-  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="50px" height="50px">
-  <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="50px" height="50px">
-  <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="50px" height="50px">
-  <!-- <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/-React%20JS-1ABFD3?style=flat&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/-Php-264381?style=flat&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/-Laravel-F70B0B?style=flat&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/-C++-0C7EF0?style=flat&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/-Python-FFF40C?style=flat&logo=python&logoColor=black">
-  <img src="https://img.shields.io/badge/-FastApi-10D7A4?style=flat&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/-Dart-48A0EE?style=flat&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/-Flutter-48C6EE?style=flat&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-VSCode-0C7EF0?style=flat&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/-Unity-3A3D3D?style=flat&logo=unity&logoColor=white">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,angular,tailwind,php,laravel,cpp,python,fastapi,dart,flutter,mongodb,mysql,vscode,unity,git,github&theme=dark" /> -->
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,php,laravel,cpp,python,fastapi,dart,flutter,mongodb,mysql,vscode,unity,git,github,figma&theme=dark" /> -->
 </p>
 </div>
 
