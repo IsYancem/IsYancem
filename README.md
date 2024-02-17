@@ -30,7 +30,7 @@
 <div align="left">
   <h2>My Tech Stack</h2>
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,php,laravel,cpp,python,fastapi,dart,flutter,mongodb,mysql,vscode,visualstudio,unity,git,github,postman,figma&theme=dark" /> -->
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,php,laravel,cpp,python,fastapi,dart,flutter,mongodb,mysql,vscode,visualstudio,unity,git,github,postman,figma&theme=dark" /> 
 </p>
 </div>
 
