@@ -31,6 +31,7 @@
   <h2>My Tech Stack</h2>
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,php,laravel,codeigniter,cpp,python,fastapi,dart,flutter,mongodb,mysql,vscode,visualstudio,unity,git,github,postman,figma&theme=dark" /> 
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </p>
 </div>
 
@@ -41,10 +42,4 @@
 [![Lo que más uso](https://github-readme-stats.vercel.app/api/top-langs/?username=isyancem&layout=compact&custom_title=Lo%20que%20m%C3%A1s%20uso%20&hide_title=false&langs_count=10&card_width=230&bg_color=293036ff&title_color=DDDDDD&text_color=DDDDDD&hide_border=false&border_color=293036ff&line_height=20)](https://github.com/anuraghazra/github-readme-stats) 
 [![]()]()
 [![Racha](http://github-readme-streak-stats.herokuapp.com?user=isyancem&theme=radical&hide_border=true&background=293036&dates=293036&ring=60BEDC&sideNums=DDDDDD&currStreakLabel=DDDDDD&currStreakNum=36CF21&fire=FF6247&sideLabels=DDDDDD#center)](https://git.io/streak-stats) 
-
-/*## 🤓 Estudio extra
-### 📅 2024
-- [ ] Apreder REACT 
-- [ ] Aprender Django
-- [ ] Aprender Angula 8*/
 
