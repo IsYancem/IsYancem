@@ -31,7 +31,7 @@
   <h2>My Tech Stack</h2>
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,php,laravel,codeigniter,cpp,python,fastapi,dart,flutter,mongodb,mysql,vscode,visualstudio,unity,git,github,postman,figma&theme=dark" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain-wordmark.svg" width="100" height="100" />
 </p>
 </div>
 
