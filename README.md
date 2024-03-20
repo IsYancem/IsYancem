@@ -31,7 +31,9 @@
   <h2>My Tech Stack</h2>
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,php,laravel,codeigniter,cpp,python,fastapi,dart,flutter,mongodb,mysql,vscode,visualstudio,unity,git,github,postman,figma&theme=dark" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain-wordmark.svg" />
+  <i class="devicon-codeigniter-plain-wordmark colored"></i>
 </p>
 </div>
 
