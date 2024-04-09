@@ -13,6 +13,7 @@
     <li>📱 I'm working as a mobile application developer at flutter.</li>
     <li>🤝 I’m looking for challenging work experiences that will help me grow professionally.</li>
     <li>📫 Reach me at: <a href="mailto:abriyance@gmail.com">isyancem@gmail.com</a></li>
+    <li>📄 Curriculum Vitae: <a href="https://drive.google.com/file/d/1SH8MlOpJIWpa7bp47eoknQ9bhjTCjAf9/view?usp=sharing" target="_blank">Spanish</a></li>
   </ul>
 </div>
 
