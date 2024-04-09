@@ -23,7 +23,7 @@
   <ul>
     <li>🇪🇸 Spanish (Native)</li>
     <li>🇬🇧 English (B1)</li>
-    <li>🇵🇹 Portuguese (B2)</li>
+    <li>🇵🇹 Portuguese (B1)</li>
   </ul>
 </div>
 
