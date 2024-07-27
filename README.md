@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header">
   <img align="right" alt="coding.gif" style="border-radius:20px" src="https://media4.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47j7no0qquyx2bh6qy65svssq41jlpw71b9sujgzds&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="180" />
   <h1 align="center"><span style="color: #1abc9c">Hi</span> 👋, <span style="color: #f39c12">I'm </span><span style="color: #e91e63">Abraham</span></h1>
   <h3 align="center">I am a Software Engineering student passionate about technology and its impact on society.</h3>
@@ -6,7 +6,7 @@
 
 ---
 
-<div align="center">
+<div>
   <h2>About Me</h2>
   <p>🔭 I’m currently studying software engineering.</p>
   <p>🌱 I'm learning Data Science with Python.</p>
@@ -19,7 +19,7 @@
 
 ---
 
-<div align="center">
+<div>
   <h2>Languages</h2>
   <p>🇪🇸 Spanish (Native)</p>
   <p>🇬🇧 English (B1)</p>
@@ -28,7 +28,7 @@
 
 ---
 
-<div align="center">
+<div>
   <h2>My Tech Stack</h2>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
@@ -56,7 +56,7 @@
 
 ---
 
-<div align="center">
+<div>
   <h2>📊 Activity</h2>
   <p>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=isyancem&custom_title=Last%2031%20Days&theme=github&area=true&hide_border=true" alt="Activity Graph"/>
