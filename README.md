@@ -62,10 +62,10 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=isyancem&custom_title=Last%2031%20Days&theme=github&area=true&hide_border=true" alt="Activity Graph"/>
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isyancem&layout=compact&custom_title=Lo%20que%20m%C3%A1s%20uso%20&hide_title=false&langs_count=10&card_width=230&bg_color=293036ff&title_color=DDDDDD&text_color=DDDDDD&hide_border=false&border_color=293036ff&line_height=20" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isyancem&layout=compact&custom_title=Lo%20que%20m%C3%A1s%20uso%20&hide_title=false&langs_count=10&card_width=230&bg_color=efeded&title_color=DDDDDD&text_color=DDDDDD&hide_border=false&border_color=293036ff&line_height=20" alt="Top Languages"/>
   </p>
   <p>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=isyancem&theme=radical&hide_border=true&background=293036&dates=293036&ring=60BEDC&sideNums=DDDDDD&currStreakLabel=DDDDDD&currStreakNum=36CF21&fire=FF6247&sideLabels=DDDDDD" alt="Streak Stats"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=isyancem&theme=radical&hide_border=true&background=efeded&dates=293036&ring=60BEDC&sideNums=DDDDDD&currStreakLabel=DDDDDD&currStreakNum=36CF21&fire=FF6247&sideLabels=DDDDDD" alt="Streak Stats"/>
   </p>
 </div>
 
