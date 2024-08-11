@@ -1,35 +1,35 @@
-<div id="header">
+<div id="header" style="background-color: #1a1a1a; padding: 20px; border-radius: 20px;">
   <img align="right" alt="coding.gif" style="border-radius:20px" src="https://media4.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47j7no0qquyx2bh6qy65svssq41jlpw71b9sujgzds&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="180" />
   <h1 align="center"><span style="color: #1abc9c">Hi</span> 👋, <span style="color: #f39c12">I'm </span><span style="color: #e91e63">Abraham</span></h1>
-  <h3 align="center">I am a Software Engineering student passionate about technology and its impact on society.</h3>
+  <h3 align="center" style="color: #ffffff;">I am a Software Engineering student passionate about technology and its impact on society.</h3>
 </div>
 
 ---
 
-<div>
-  <h2>About Me</h2>
-  <p>🔭 I’m currently studying software engineering.</p>
-  <p>🌱 I'm learning Data Science with Python.</p>
-  <p>📱 I'm working as a mobile application developer with Flutter.</p>
-  <p>💻 I'm currently freelancing as a Flutter application developer.</p>
-  <p>🤝 I’m looking for challenging work experiences that will help me grow professionally.</p>
-  <p>📫 Reach me at: <a href="mailto:isyancem@gmail.com">isyancem@gmail.com</a></p>
-  <p>📄 Curriculum Vitae: <a href="https://drive.google.com/file/d/1SH8MlOpJIWpa7bp47eoknQ9bhjTCjAf9/view?usp=sharing" target="_blank">Spanish</a> | <a href="https://drive.google.com/file/d/1izSBShSMhhhu-s5hg_RQWG3jLVZczCSC/view?usp=sharing" target="_blank">English</a></p>
+<div style="background-color: #1a1a1a; padding: 20px; border-radius: 20px;">
+  <h2 style="color: #1abc9c;">About Me</h2>
+  <p style="color: #ffffff;">🔭 I’m currently studying software engineering.</p>
+  <p style="color: #ffffff;">🌱 I'm learning Data Science with Python.</p>
+  <p style="color: #ffffff;">📱 I'm working as a mobile application developer with Flutter.</p>
+  <p style="color: #ffffff;">💻 I'm currently freelancing as a Flutter application developer.</p>
+  <p style="color: #ffffff;">🤝 I’m looking for challenging work experiences that will help me grow professionally.</p>
+  <p style="color: #ffffff;">📫 Reach me at: <a href="mailto:isyancem@gmail.com" style="color: #1abc9c;">isyancem@gmail.com</a></p>
+  <p style="color: #ffffff;">📄 Curriculum Vitae: <a href="https://drive.google.com/file/d/1SH8MlOpJIWpa7bp47eoknQ9bhjTCjAf9/view?usp=sharing" target="_blank" style="color: #1abc9c;">Spanish</a> | <a href="https://drive.google.com/file/d/1izSBShSMhhhu-s5hg_RQWG3jLVZczCSC/view?usp=sharing" target="_blank" style="color: #1abc9c;">English</a></p>
 </div>
 
 ---
 
-<div>
-  <h2>Languages</h2>
-  <p>🇪🇸 Spanish (Native)</p>
-  <p>🇬🇧 English (B1)</p>
-  <p>🇵🇹 Portuguese (B1)</p>
+<div style="background-color: #1a1a1a; padding: 20px; border-radius: 20px;">
+  <h2 style="color: #1abc9c;">Languages</h2>
+  <p style="color: #ffffff;">🇪🇸 Spanish (Native)</p>
+  <p style="color: #ffffff;">🇬🇧 English (B1)</p>
+  <p style="color: #ffffff;">🇵🇹 Portuguese (B1)</p>
 </div>
 
 ---
 
-<div>
-  <h2>My Tech Stack</h2>
+<div style="background-color: #1a1a1a; padding: 20px; border-radius: 20px;">
+  <h2 style="color: #1abc9c;">My Tech Stack</h2>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
@@ -56,18 +56,15 @@
 
 ---
 
-<div>
-  <h2>📊 Activity</h2>
+<div style="background-color: #1a1a1a; padding: 20px; border-radius: 20px;">
+  <h2 style="color: #1abc9c;">📊 Activity</h2>
   <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=isyancem&custom_title=Last%2031%20Days&theme=github&area=true&hide_border=false&bg_color=efeded&title_color=676565&text_color=676565&hide_border=false&border_color=293036ff" alt="Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=isyancem&custom_title=Last%2031%20Days&theme=github-dark&area=true&hide_border=false&bg_color=1a1a1a&title_color=1abc9c&text_color=ffffff&hide_border=false&border_color=1abc9c" alt="Activity Graph"/>
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isyancem&layout=compact&custom_title=Lo%20que%20m%C3%A1s%20uso%20&hide_title=false&langs_count=10&card_width=230&bg_color=efeded&title_color=676565&text_color=676565&hide_border=false&border_color=293036ff&line_height=20" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isyancem&layout=compact&custom_title=Lo%20que%20m%C3%A1s%20uso%20&hide_title=false&langs_count=10&card_width=230&bg_color=1a1a1a&title_color=1abc9c&text_color=ffffff&hide_border=false&border_color=1abc9c&line_height=20" alt="Top Languages"/>
   </p>
   <p>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=isyancem&theme=radical&hide_border=true&background=efeded&dates=293036&ring=60BEDC&sideNums=676565&currStreakLabel=676565&currStreakNum=36CF21&fire=FF6247&sideLabels=676565" alt="Streak Stats"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=isyancem&theme=dark&hide_border=true&background=1a1a1a&dates=1abc9c&ring=1abc9c&sideNums=ffffff&currStreakLabel=1abc9c&currStreakNum=ffffff&fire=ff6247&sideLabels=ffffff" alt="Streak Stats"/>
   </p>
 </div>
-
-
-
