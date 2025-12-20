@@ -8,7 +8,7 @@
 
 <div style="background-color: #1a1a1a; padding: 20px; border-radius: 20px;">
   <h2 style="color: #1abc9c;">About Me</h2>
-  <p style="color: #ffffff;">🔭 I’m currently studying software engineering.</p>
+  <p style="color: #ffffff;">🔭 I’m a Software engineer.</p>
   <p style="color: #ffffff;">🌱 I'm learning Data Science with Python.</p>
   <p style="color: #ffffff;">📱 I'm working as a mobile application developer with Flutter.</p>
   <p style="color: #ffffff;">💻 I'm currently freelancing as a Flutter application developer.</p>
