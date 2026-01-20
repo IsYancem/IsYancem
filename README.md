@@ -1,7 +1,7 @@
 <div id="header" style="background-color: #1a1a1a; padding: 20px; border-radius: 20px;">
   <img align="right" alt="coding.gif" style="border-radius:20px" src="https://media4.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47j7no0qquyx2bh6qy65svssq41jlpw71b9sujgzds&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="180" />
   <h1 align="center"><span style="color: #1abc9c">Hi</span> 👋, <span style="color: #f39c12">I'm </span><span style="color: #e91e63">Abraham</span></h1>
-  <h3 align="center" style="color: #ffffff;">I am a Software Engineering student passionate about technology and its impact on society.</h3>
+  <h3 align="center" style="color: #ffffff;">I am a Software Engineering passionate about technology and its impact on society.</h3>
 </div>
 
 ---
