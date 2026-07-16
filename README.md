@@ -4,26 +4,29 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+Semi+Sr.;Backend%2C+real-time+systems+and+data;RFID+%7C+OCR+%7C+WebSockets+%7C+TCP%2FIP;M.Sc.+student+in+Business+Intelligence+%26+Data+Science)](https://git.io/typing-svg)
 
+[![Español](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-334155?style=for-the-badge)](./README.md)
+[![English](https://img.shields.io/badge/Language-English-0891B2?style=for-the-badge)](./README.en.md)
+
 [![Profile views](https://komarev.com/ghpvc/?username=isyancem&label=Profile%20views&color=0891B2&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 [![GitHub followers](https://img.shields.io/github/followers/isyancem?label=Followers&style=for-the-badge&logo=github&color=0891B2)](https://github.com/isyancem?tab=followers)
 [![Email](https://img.shields.io/badge/Email-isyancem%40gmail.com-0891B2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isyancem@gmail.com)
 
 </div>
 
-## ????? About me
+## About me
 
 I am a **Software Engineer and Full Stack Developer Semi Sr.** based in Guayaquil, Ecuador. I build scalable software solutions with a strong focus on backend development, real-time communication, database integration, and operational process automation.
 
-I currently develop systems for port operations, integrating technologies such as **RFID, OCR, WebSockets, TCP/IP, relational and non-relational databases, stored procedures, and external services**. I am also pursuing a **Master's degree in Business Intelligence and Data Science**.
+I currently develop systems for port operations, integrating **RFID, OCR, WebSockets, TCP/IP, relational and non-relational databases, stored procedures, and external services**. I am also pursuing a **Master's degree in Business Intelligence and Data Science**.
 
-- ?? Building software for operational automation and real-time monitoring
-- ?? Working across backend, frontend, databases, hardware integrations, and infrastructure
-- ?? Expanding my expertise in Business Intelligence, Data Science, and Machine Learning
-- ?? Interested in scalable architectures, system integration, and continuous improvement
-- ?? Guayaquil, Ecuador
-- ?? Contact: **[isyancem@gmail.com](mailto:isyancem@gmail.com)**
+- **Current focus:** operational automation and real-time monitoring.
+- **Areas of work:** backend, frontend, databases, hardware integrations, and infrastructure.
+- **Education:** Business Intelligence, Data Science, and Machine Learning.
+- **Interests:** scalable architectures, system integration, and continuous improvement.
+- **Location:** Guayaquil, Ecuador.
+- **Contact:** [isyancem@gmail.com](mailto:isyancem@gmail.com).
 
-## ?? What I work with
+## Areas and technologies
 
 ```text
 Backend & APIs       NestJS · Node.js · FastAPI · .NET/C#
@@ -34,7 +37,7 @@ Data Science         Python · Pandas · NumPy · Scikit-learn · Power BI
 DevOps               Docker · Kubernetes · Linux · Git · GitHub · GitLab
 ```
 
-## ?? Technology stack
+## Technology stack
 
 <div align="center">
 
@@ -67,20 +70,20 @@ DevOps               Docker · Kubernetes · Linux · Git · GitHub · GitLab
 
 </div>
 
-## ?? Experience snapshot
+## Professional experience
 
 | Period | Role | Focus |
 |:--|:--|:--|
 | May 2025 - Present | **Full Stack Developer Semi Sr. · RamoSoft** | Port-operation automation, real-time integrations, RFID, OCR, WebSockets, databases, and backend services |
-| Jun 2023 - Apr 2025 | **Full Stack Developer Jr. · Independent Contractor** | Custom Flutter applications, PHP backends, MySQL, authentication, payments, reporting, and cloud integrations |
-| Mar 2023 - May 2023 | **Full Stack Developer · Pulpo.EC** | Digital-signature platform with Python/FastAPI and frontend technologies |
+| June 2023 - April 2025 | **Full Stack Developer Jr. · Independent Contractor** | Flutter applications, PHP backends, MySQL, authentication, payments, reporting, and cloud integrations |
+| March 2023 - May 2023 | **Full Stack Developer · Pulpo.EC** | Digital-signature platform with Python/FastAPI and frontend technologies |
 
-## ?? Education
+## Education
 
-- **Master's in Business Intelligence and Data Science** — Universidad Espíritu Santo *(2026 - Present)*
-- **Software Engineering** — Universidad de las Fuerzas Armadas ESPE *(2020 - 2024)*
+- **Master's in Business Intelligence and Data Science** - Universidad Espíritu Santo *(2026 - Present)*.
+- **Software Engineering** - Universidad de las Fuerzas Armadas ESPE *(2020 - 2024)*.
 
-## ?? GitHub analytics
+## GitHub analytics
 
 <div align="center">
 
@@ -93,21 +96,21 @@ DevOps               Docker · Kubernetes · Linux · Git · GitHub · GitLab
 
 > The language card reflects the code available in public repositories; it is not a measure of proficiency.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=isyancem&theme=transparent&hide_border=true&background=0D1117&ring=22D3EE&fire=F97316&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF)](https://git.io/streak-stats)
+[![GitHub streak](https://streak-stats.demolab.com?user=isyancem&theme=transparent&hide_border=true&background=0D1117&ring=22D3EE&fire=F97316&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF)](https://git.io/streak-stats)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=isyancem&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=FFFFFF&area=true&area_color=0891B2&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isyancem&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=FFFFFF&area=true&area_color=0891B2&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=isyancem&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![Dynamic profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isyancem&theme=github_dark&animation=load&duration=3)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
-## ?? Languages
+## Languages
 
-- ???? Spanish — Native
-- ???? English — B1
-- ???? Portuguese — A2
+- **Spanish:** native.
+- **English:** B1.
+- **Portuguese:** A2.
 
-## ?? Résumé
+## Résumé
 
 <div align="center">
 
