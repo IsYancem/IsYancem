@@ -1,72 +1,127 @@
-<div id="header" style="background-color: #1a1a1a; padding: 20px; border-radius: 20px;">
-  <img align="right" alt="coding.gif" style="border-radius:20px" src="https://media4.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47j7no0qquyx2bh6qy65svssq41jlpw71b9sujgzds&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="180" />
-  <h1 align="center"><span style="color: #1abc9c">Hi</span> 👋, <span style="color: #f39c12">I'm </span><span style="color: #e91e63">Abraham</span></h1>
-  <h3 align="center" style="color: #ffffff;">I am a Software Engineering passionate about technology and its impact on society.</h3>
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:0E7490,100:22D3EE&text=Abraham%20Yance&fontColor=FFFFFF&fontSize=48&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=57&descSize=19&animation=fadeIn)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+Semi+Sr.;Backend%2C+real-time+systems+and+data;RFID+%7C+OCR+%7C+WebSockets+%7C+TCP%2FIP;M.Sc.+student+in+Business+Intelligence+%26+Data+Science)](https://git.io/typing-svg)
+
+[![Profile views](https://komarev.com/ghpvc/?username=isyancem&label=Profile%20views&color=0891B2&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
+[![GitHub followers](https://img.shields.io/github/followers/isyancem?label=Followers&style=for-the-badge&logo=github&color=0891B2)](https://github.com/isyancem?tab=followers)
+[![Email](https://img.shields.io/badge/Email-isyancem%40gmail.com-0891B2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isyancem@gmail.com)
+
+</div>
+
+## ????? About me
+
+I am a **Software Engineer and Full Stack Developer Semi Sr.** based in Guayaquil, Ecuador. I build scalable software solutions with a strong focus on backend development, real-time communication, database integration, and operational process automation.
+
+I currently develop systems for port operations, integrating technologies such as **RFID, OCR, WebSockets, TCP/IP, relational and non-relational databases, stored procedures, and external services**. I am also pursuing a **Master's degree in Business Intelligence and Data Science**.
+
+- ?? Building software for operational automation and real-time monitoring
+- ?? Working across backend, frontend, databases, hardware integrations, and infrastructure
+- ?? Expanding my expertise in Business Intelligence, Data Science, and Machine Learning
+- ?? Interested in scalable architectures, system integration, and continuous improvement
+- ?? Guayaquil, Ecuador
+- ?? Contact: **[isyancem@gmail.com](mailto:isyancem@gmail.com)**
+
+## ?? What I work with
+
+```text
+Backend & APIs       NestJS · Node.js · FastAPI · .NET/C#
+Frontend & Mobile    React · Flutter · Dart
+Real-time Systems    WebSockets · TCP/IP · RFID · OCR
+Data & Storage       SQL Server · Sybase · PostgreSQL · MySQL · MongoDB · Redis
+Data Science         Python · Pandas · NumPy · Scikit-learn · Power BI
+DevOps               Docker · Kubernetes · Linux · Git · GitHub · GitLab
+```
+
+## ?? Technology stack
+
+<div align="center">
+
+### Languages
+
+[![Languages](https://skillicons.dev/icons?i=ts,python,dart,go,cs,java,cpp&theme=dark&perline=7)](https://skillicons.dev)
+
+### Backend, frontend and mobile
+
+[![Frameworks](https://skillicons.dev/icons?i=nestjs,nodejs,dotnet,fastapi,flutter,react&theme=dark&perline=6)](https://skillicons.dev)
+
+### Databases and data
+
+[![Data](https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark&perline=4)](https://skillicons.dev)
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Sybase](https://img.shields.io/badge/Sybase-0A6ED1?style=for-the-badge&logo=sap&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### Infrastructure and tools
+
+[![Tools](https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,gitlab,postman,vscode,visualstudio,figma&theme=dark&perline=10)](https://skillicons.dev)
+
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge&logo=cisco&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+</div>
+
+## ?? Experience snapshot
+
+| Period | Role | Focus |
+|:--|:--|:--|
+| May 2025 - Present | **Full Stack Developer Semi Sr. · RamoSoft** | Port-operation automation, real-time integrations, RFID, OCR, WebSockets, databases, and backend services |
+| Jun 2023 - Apr 2025 | **Full Stack Developer Jr. · Independent Contractor** | Custom Flutter applications, PHP backends, MySQL, authentication, payments, reporting, and cloud integrations |
+| Mar 2023 - May 2023 | **Full Stack Developer · Pulpo.EC** | Digital-signature platform with Python/FastAPI and frontend technologies |
+
+## ?? Education
+
+- **Master's in Business Intelligence and Data Science** — Universidad Espíritu Santo *(2026 - Present)*
+- **Software Engineering** — Universidad de las Fuerzas Armadas ESPE *(2020 - 2024)*
+
+## ?? GitHub analytics
+
+<div align="center">
+
+<a href="https://github.com/isyancem">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=isyancem&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&ring_color=0891B2" alt="Abraham's GitHub statistics" />
+</a>
+<a href="https://github.com/isyancem?tab=repositories">
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=isyancem&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Most used languages in public repositories" />
+</a>
+
+> The language card reflects the code available in public repositories; it is not a measure of proficiency.
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=isyancem&theme=transparent&hide_border=true&background=0D1117&ring=22D3EE&fire=F97316&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF)](https://git.io/streak-stats)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=isyancem&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=FFFFFF&area=true&area_color=0891B2&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=isyancem&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+## ?? Languages
+
+- ???? Spanish — Native
+- ???? English — B1
+- ???? Portuguese — A2
+
+## ?? Résumé
+
+<div align="center">
+
+[![Spanish CV](https://img.shields.io/badge/CV-Spanish-0891B2?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1SH8MlOpJIWpa7bp47eoknQ9bhjTCjAf9/view?usp=sharing)
+[![English CV](https://img.shields.io/badge/CV-English-0891B2?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1izSBShSMhhhu-s5hg_RQWG3jLVZczCSC/view?usp=sharing)
+
 </div>
 
 ---
 
-<div style="background-color: #1a1a1a; padding: 20px; border-radius: 20px;">
-  <h2 style="color: #1abc9c;">About Me</h2>
-  <p style="color: #ffffff;">🔭 I’m a Software engineer.</p>
-  <p style="color: #ffffff;">🌱 I'm learning Data Science with Python.</p>
-  <p style="color: #ffffff;">📱 I'm working as a mobile application developer with Flutter.</p>
-  <p style="color: #ffffff;">💻 I'm currently freelancing as a Flutter application developer.</p>
-  <p style="color: #ffffff;">🤝 I’m looking for challenging work experiences that will help me grow professionally.</p>
-  <p style="color: #ffffff;">📫 Reach me at: <a href="mailto:isyancem@gmail.com" style="color: #1abc9c;">isyancem@gmail.com</a></p>
-  <p style="color: #ffffff;">📄 Curriculum Vitae: <a href="https://drive.google.com/file/d/1SH8MlOpJIWpa7bp47eoknQ9bhjTCjAf9/view?usp=sharing" target="_blank" style="color: #1abc9c;">Spanish</a> | <a href="https://drive.google.com/file/d/1izSBShSMhhhu-s5hg_RQWG3jLVZczCSC/view?usp=sharing" target="_blank" style="color: #1abc9c;">English</a></p>
-</div>
+<div align="center">
 
----
+### Let's build reliable software that solves real operational problems.
 
-<div style="background-color: #1a1a1a; padding: 20px; border-radius: 20px;">
-  <h2 style="color: #1abc9c;">Languages</h2>
-  <p style="color: #ffffff;">🇪🇸 Spanish (Native)</p>
-  <p style="color: #ffffff;">🇬🇧 English (B1)</p>
-  <p style="color: #ffffff;">🇵🇹 Portuguese (B1)</p>
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22D3EE,50:0E7490,100:0F172A)
 
----
-
-<div style="background-color: #1a1a1a; padding: 20px; border-radius: 20px;">
-  <h2 style="color: #1abc9c;">My Tech Stack</h2>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original-wordmark.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50"/>                                             
-  </p>
-</div>
-
----
-
-<div style="background-color: #1a1a1a; padding: 20px; border-radius: 20px;">
-  <h2 style="color: #1abc9c;">📊 Activity</h2>
-  <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=isyancem&custom_title=Last%2031%20Days&theme=github-dark&area=true&hide_border=false&bg_color=1a1a1a&title_color=1abc9c&text_color=ffffff&hide_border=false&border_color=1abc9c" alt="Activity Graph"/>
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isyancem&layout=compact&custom_title=Lo%20que%20m%C3%A1s%20uso%20&hide_title=false&langs_count=10&card_width=230&bg_color=1a1a1a&title_color=1abc9c&text_color=ffffff&hide_border=false&border_color=1abc9c&line_height=20" alt="Top Languages"/>
-  </p>
-  <p>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=isyancem&theme=dark&hide_border=true&background=1a1a1a&dates=1abc9c&ring=1abc9c&sideNums=ffffff&currStreakLabel=1abc9c&currStreakNum=ffffff&fire=ff6247&sideLabels=ffffff" alt="Streak Stats"/>
-  </p>
 </div>
