@@ -100,8 +100,6 @@ DevOps               Docker · Kubernetes · Linux · Git · GitHub · GitLab
 
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isyancem&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=FFFFFF&area=true&area_color=0891B2&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-[![Dynamic profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isyancem&theme=github_dark&animation=load&duration=3)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 </div>
 
 ## Languages
